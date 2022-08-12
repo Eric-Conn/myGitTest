@@ -7,3 +7,6 @@ def f():
 def h():
     print(3)
     
+def g():
+    print(4)
+    
